@@ -16,7 +16,7 @@
 ## Getting Started
 To get a local copy of the program running, follow these simple steps
 ## Demo
-[Demo link]()
+[Demo link](https://drive.google.com/file/d/1Ievlwn4vVAxnbtU4o8mMe_uUrG-BMgXi/view?usp=sharing)
 
 ### Prerequisites
 - IDE, preferably Intellij but Eclipse should be fine too
