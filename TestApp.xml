@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestApp" verbose="2">
+    <listeners>
+        <listener class-name="utils.listeners.TestListener" />
+        <listener class-name="utils.listeners.AnnotationTransformer" />
+    </listeners>
+    <test name="Test Suite" parallel="false">
+        <parameter name="TestApp" value=""/>
+
+        <classes>
+            <class name="Tests.HomePage"/>
+            <class name="Tests.Counter"/>
+        </classes>
+    </test>
+</suite>
